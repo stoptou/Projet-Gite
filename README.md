@@ -51,3 +51,4 @@ symfony console doctrine:fixtures:load
 3) "symfony serve" ou "symfony server:start"
 puis rendez vous sur la page et le port correspondant dans votre navigateur
 
+# projetGite
